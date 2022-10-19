@@ -1,2 +1,2 @@
 # DIO-PottencialBootcamp-PrimeiroRepositorio
-Repositório criado para desafio do Bootcamp Pottencial .Net Developer
+Este repositório foi criado para desafio do Bootcamp Pottencial .Net Developer
